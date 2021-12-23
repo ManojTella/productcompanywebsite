@@ -330,7 +330,7 @@ Publish the website in the given URL.
 ### People:
 ![OUTPUT](people.png)
 ### Contact:
-![OUTPUT(contactus.png)
+![OUTPUT](contactus.png)
 ### Products
 ![OUTPUT](products1.png)
 ![OUTPUT](products2.png)
